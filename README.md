@@ -1,10 +1,10 @@
 # Azerbaijani language pack for [Flarum](https://flarum.org/)
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/flarum-lang/azerbaijani?color=success&label=stable)](https://packagist.org/packages/flarum-lang/azerbaijani) 
-[![Latest Unstable Version](https://img.shields.io/packagist/v/flarum-lang/azerbaijani?include_prereleases&label=unstable)](https://packagist.org/packages/flarum-lang/azerbaijani) 
-[![License](https://img.shields.io/packagist/l/flarum-lang/azerbaijani)](https://packagist.org/packages/flarum-lang/azerbaijani) 
-[![Total Downloads](https://img.shields.io/packagist/dt/flarum-lang/azerbaijani)](https://packagist.org/packages/flarum-lang/azerbaijani/stats) 
-[![Monthly Downloads](https://img.shields.io/packagist/dm/flarum-lang/azerbaijani)](https://packagist.org/packages/flarum-lang/azerbaijani/stats) 
+[![Latest Stable Version](https://poser.pugx.org/flarum-lang/azerbaijani/v)](https://packagist.org/packages/flarum-lang/azerbaijani) 
+[![Total Downloads](https://poser.pugx.org/flarum-lang/azerbaijani/downloads)](https://packagist.org/packages/flarum-lang/azerbaijani) 
+[![License](http://poser.pugx.org/flarum-lang/azerbaijani/license)](https://packagist.org/packages/flarum-lang/azerbaijani) 
+[![Monthly Downloads](https://poser.pugx.org/flarum-lang/azerbaijani/d/monthly)](https://packagist.org/packages/flarum-lang/azerbaijani) 
+[![Daily Downloads](https://poser.pugx.org/flarum-lang/azerbaijani/d/daily)](https://packagist.org/packages/flarum-lang/azerbaijani) 
 
 This language pack contains Azerbaijani translations for Flarum (compatible with `1.0.0` or newer) and popular extensions. Full list of supported extensions is available below.
 
