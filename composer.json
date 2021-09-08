@@ -1,12 +1,12 @@
 {
-	"name": "yourname/flarum-lang-xxish",
+	"name": "flarum-lang/zerbaijani",
 	"type": "flarum-extension",
-	"description": "Xxish language pack for Flarum.",
-	"homepage": "https://github.com/yourname/flarum-lang-xxish",
+	"description": "Azerbaijani language pack for Flarum.",
+	"homepage": "https://github.com/flarum-lang/azerbaijani",
 	"keywords": [
 		"locale",
 		"flarum",
-		"xx-locale"
+		"azerbaijani-locale"
 	],
 	"license": "MIT",
 	"authors": [
@@ -17,8 +17,8 @@
 		}
 	],
 	"support": {
-		"issues": "https://github.com/yourname/flarum-lang-xxish/issues",
-		"source": "https://github.com/yourname/flarum-lang-xxish"
+		"issues": "https://github.com/flarum-lang/azerbaijani/issues",
+		"source": "https://github.com/flarum-lang/azerbaijani"
 	},
 	"require": {
 		"flarum/core": "^1.0"
@@ -27,7 +27,7 @@
 	"prefer-stable": true,
 	"extra": {
 		"flarum-extension": {
-			"title": "Xxish",
+			"title": "Azerbaijani",
 			"icon": {
 				"image": "icon.svg",
 				"backgroundSize": "cover",
@@ -35,8 +35,8 @@
 			}
 		},
 		"flarum-locale": {
-			"code": "xx",
-			"title": "Xxish"
+			"code": "az",
+			"title": "Azerbaijani"
 		},
 		"extiverse": {
 			"discuss": ""
